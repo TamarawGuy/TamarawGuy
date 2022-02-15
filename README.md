@@ -1,9 +1,14 @@
 <h1 align="left">Hi 👋, I'm Viktor</h1>
-<h3 align="left">A Full-Stack React-Django Web Developer</h3>
+<h3 align="left">A Full-Stack Web Developer</h3>
+
+<p>I am a full-stack web developer based in Sofia, Bulgaria.</p> 
+<p>I love programming, going to the gym and improve myself day-by-day.</p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TamarawGuy&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TamarawGuy&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 - 📫 How to reach me **viktor.m.rumenov@gmail.com**
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TamarawGuy&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
