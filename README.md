@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Viktor</h1>
-<h3 align="center">A full-stack web programmer</h3>
+<h3 align="center">A Full-Stack React-Django Web Developer</h3>
 
 - 📫 How to reach me **viktor.m.rumenov@gmail.com**
 
