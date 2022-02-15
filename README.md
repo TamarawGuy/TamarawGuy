@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, I'm Viktor</h1>
-<h3 align="center">A Full-Stack React-Django Web Developer</h3>
+<h1 align="left">Hi 👋, I'm Viktor</h1>
+<h3 align="left">A Full-Stack React-Django Web Developer</h3>
 
 - 📫 How to reach me **viktor.m.rumenov@gmail.com**
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TamarawGuy&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
