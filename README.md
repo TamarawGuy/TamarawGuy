@@ -18,7 +18,7 @@
 
 |Front-End|Electives|
 |--|--|
-|<table><tr><th>Course</th><th>Link</th></tr><tr><td>HTML & CSS</td><td>In Progress</td></tr> </table>|<table> <tr><th>Course</th><th>Link</th></tr><tr><td>[C++ Basics](https://softuni.bg/trainings/3273/programming-basics-with-cpp-january-2021)</td><td>[Link](https://softuni.bg/certificates/details/98635/e22434e2)</td></tr><tr><td>[C++ Fundamentals](https://softuni.bg/trainings/3257/cpp-fundamentals-march-2021)</td><td>[Link](https://softuni.bg/certificates/details/107583/9047bb09)</td></tr><tr><td>[Fundamentals in Mathematics](https://softuni.bg/trainings/3416/fundamentals-in-mathematics-may-2021)</td><td>[Link](https://softuni.bg/certificates/details/107583/9047bb09)</td></tr></table>|
+|<table><tr><th>Course</th><th>Link</th></tr><tr><td>[HTML & CSS](https://softuni.bg/trainings/3604/html-and-css-january-2022)</td><td>[Link](https://softuni.bg/certificates/details/127560/9b87491d)</td></tr> </table>|<table> <tr><th>Course</th><th>Link</th></tr><tr><td>[C++ Basics](https://softuni.bg/trainings/3273/programming-basics-with-cpp-january-2021)</td><td>[Link](https://softuni.bg/certificates/details/98635/e22434e2)</td></tr><tr><td>[C++ Fundamentals](https://softuni.bg/trainings/3257/cpp-fundamentals-march-2021)</td><td>[Link](https://softuni.bg/certificates/details/107583/9047bb09)</td></tr><tr><td>[Fundamentals in Mathematics](https://softuni.bg/trainings/3416/fundamentals-in-mathematics-may-2021)</td><td>[Link](https://softuni.bg/certificates/details/107583/9047bb09)</td></tr></table>|
 <!-- ## Certificates
 
 | Course  | Link |
