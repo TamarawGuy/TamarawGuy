@@ -1,4 +1,5 @@
 <h1 align="left">Hi 👋, I'm Viktor</h1>
+
 <h3 align="left">A Full-Stack Web Developer</h3>
 
 <p>I am a full-stack web developer based in Sofia, Bulgaria.</p> 
@@ -7,10 +8,13 @@
 <hr>
 
 ## My Education at SoftUni
-
+![Visitor Count](https://profile-counter.glitch.me/TamarawGuy/count.svg)
 <p align="left">
   <img width="600" height="200" src="https://codeweek-s3.s3.amazonaws.com/event_picture/SoftUni-Logo-Flat.png">
 </p>
+
+
+
 
 |Python|Javascript|
 |--|--|
@@ -35,6 +39,8 @@
 | [Javascript Advanced](https://softuni.bg/trainings/3487/js-advanced-september-2021/internal) | [Link](https://softuni.bg/certificates/details/114874/f512d455) |
 | [Javascript Application](https://softuni.bg/trainings/3488/js-applications-october-2021) | [Link](https://softuni.bg/certificates/details/120984/6c85f6a3) |
  -->
+
+
  
  <hr>
  
