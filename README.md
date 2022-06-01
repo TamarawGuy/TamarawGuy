@@ -1,8 +1,8 @@
 <h1 align="left">Hi 👋, I'm Viktor</h1>
 
-<h3 align="left">A Full-Stack Web Developer</h3>
+<h3 align="left">A Full-Stack Web3 Developer</h3>
 
-<p>I am a full-stack web developer based in Sofia, Bulgaria.</p> 
+<p>I am a full-stack web3 developer based in Sofia, Bulgaria.</p> 
 <p>I love programming, going to the gym and improve myself day-by-day.</p>
 
 <hr>
