@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Viktor</h1>
 
-<h3 align="left">A Full-Stack Web3 Developer</h3>
+<h3 align="left">A Front-End Web Developer</h3>
 
 <p>I am a Front-End Web Dev with interests in web3.</p>
 <p>I love programming, going to the gym and improve myself day-by-day.</p>
