@@ -44,20 +44,12 @@
  
  <hr>
  
- - My Stats
- 
-<a href="https://github.com/TamarawGuy/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TamarawGuy&theme=tokyonight" />
-</a>
-<a href="https://github.com/TamarawGuy/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TamarawGuy&theme=tokyonight&layout=compact" />
-</a>
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/viktor-rumenov-910a881ab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="viktor rumenov" height="30" width="40" /></a>
 <a href="https://www.facebook.com/viktor.rrumenovv/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="viktor rumenov" height="30" width="40" /></a>
-<a href="https://instagram.com/viktorrumenovv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="viktorrumenovv" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
