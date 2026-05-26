@@ -1,54 +1,93 @@
 <h1 align="left">Hi 👋, I'm Viktor</h1>
 
-<h3 align="left">A Frontend Web Developer</h3>
+<h3 align="left">
+Software Engineer building scalable React Native apps and AI-powered full-stack systems.
+</h3>
 
-<p>I am a Frontend Web Dev with interests in web3.</p>
-
-<!-- ## My Education at SoftUni
-![Visitor Count](https://profile-counter.glitch.me/TamarawGuy/count.svg)
 <p align="left">
-  <img width="600" height="200" src="https://codeweek-s3.s3.amazonaws.com/event_picture/SoftUni-Logo-Flat.png">
-</p>
--->
-
-
-
-
-<!-- |Python|Javascript|
-|--|--|
-|<table><tr><th>Course</th><th>Link</th></tr><tr><td>[Programming Basics with Python](https://softuni.bg/trainings/2328/programming-basics-with-python-april-2019)</td><td>[Link](https://softuni.bg/certificates/details/67584/22b1a9d7)</td><tr><td>[Python Fundamentals](https://softuni.bg/trainings/3132/python-fundamentals-september-2020)</td><td>[Link](https://softuni.bg/Certificates/Details/97144/5296147c)</td></tr><tr><td>[Python Advanced](https://softuni.bg/trainings/3219/python-advanced-january-2021)</td><td>[Link](https://softuni.bg/certificates/details/97658/62b21cb8)</td><tr><td>[Python OOP](https://softuni.bg/trainings/3220/python-oop-february-2021)</td><td>[Link](https://softuni.bg/certificates/details/104063/d7ebc08d)</td></tr><tr><td>[Python Web Basics](https://softuni.bg/trainings/3355/python-web-basics-may-2021)</td><td>[Link](https://softuni.bg/certificates/details/110808/3214978c)</td><tr><td>[Python Web Framework](https://softuni.bg/trainings/3356/python-web-framework-july-2021)</td><td>[Link](https://softuni.bg/Certificates/Details/111878/e8015e7e)</td></tr> </table>|<table> <tr><th>Course</th><th>Link</th></tr><tr><td>[Javascript Advanced](https://softuni.bg/trainings/3487/js-advanced-september-2021/internal)</td><td>[Link](https://softuni.bg/certificates/details/114874/f512d455)</td></tr><tr><td>[Javascript Application](https://softuni.bg/trainings/3488/js-applications-october-2021)</td><td>[Link](https://softuni.bg/certificates/details/120984/6c85f6a3)</td></tr></table>|
-
-|Front-End|Electives|Diploma|
-|--|--|--|
-|<table><tr><th>Course</th><th>Link</th></tr><tr><td>[HTML & CSS](https://softuni.bg/trainings/3604/html-and-css-january-2022)</td><td>[Link](https://softuni.bg/certificates/details/127560/9b87491d)</td></tr> </table>|<table> <tr><th>Course</th><th>Link</th></tr><tr><td>[C++ Basics](https://softuni.bg/trainings/3273/programming-basics-with-cpp-january-2021)</td><td>[Link](https://softuni.bg/certificates/details/98635/e22434e2)</td></tr><tr><td>[C++ Fundamentals](https://softuni.bg/trainings/3257/cpp-fundamentals-march-2021)</td><td>[Link](https://softuni.bg/certificates/details/107583/9047bb09)</td></tr><tr><td>[Fundamentals in Mathematics](https://softuni.bg/trainings/3416/fundamentals-in-mathematics-may-2021)</td><td>[Link](https://softuni.bg/certificates/details/107583/9047bb09)</td></tr></table>|<table><tr><td>Python Web Developer</td><td>[Link](https://softuni.bg/certificates/details/133490/57a71110)</td></tr> </table>|
--->
-
-<!-- ## Certificates
-
-| Course  | Link |
-| ------------- | ------------- |
-| [Programming Basics with Python](https://softuni.bg/trainings/2328/programming-basics-with-python-april-2019) | [Link](https://softuni.bg/certificates/details/67584/22b1a9d7) |
-| [Python Fundamentals](https://softuni.bg/trainings/3132/python-fundamentals-september-2020) | [Link](https://softuni.bg/Certificates/Details/97144/5296147c) |
-| [Python Advanced](https://softuni.bg/trainings/3219/python-advanced-january-2021) | [Link](https://softuni.bg/certificates/details/97658/62b21cb8) |
-| [Python OOP](https://softuni.bg/trainings/3220/python-oop-february-2021) | [Link](https://softuni.bg/certificates/details/104063/d7ebc08d) |
-| [Python Web Basics](https://softuni.bg/trainings/3355/python-web-basics-may-2021) | [Link](https://softuni.bg/certificates/details/110808/3214978c) |
-| [Python Web Framework](https://softuni.bg/trainings/3356/python-web-framework-july-2021) | [Link](https://softuni.bg/Certificates/Details/111878/e8015e7e) |
-| [C++ Basics](https://softuni.bg/trainings/3273/programming-basics-with-cpp-january-2021) | [Link](https://softuni.bg/certificates/details/98635/e22434e2) |
-| [C++ Fundamentals](https://softuni.bg/trainings/3257/cpp-fundamentals-march-2021) | [Link](https://softuni.bg/certificates/details/106230/b88214b0) |
-| [Fundamentals in Mathematics](https://softuni.bg/trainings/3416/fundamentals-in-mathematics-may-2021) | [Link](https://softuni.bg/certificates/details/107583/9047bb09) |
-| [Javascript Advanced](https://softuni.bg/trainings/3487/js-advanced-september-2021/internal) | [Link](https://softuni.bg/certificates/details/114874/f512d455) |
-| [Javascript Application](https://softuni.bg/trainings/3488/js-applications-october-2021) | [Link](https://softuni.bg/certificates/details/120984/6c85f6a3) |
- -->
-
-
- 
- <hr>
- 
-
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/viktor-rumenov-910a881ab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="viktor rumenov" height="30" width="40" /></a>
+Currently focused on React Native architecture, AI applications, RAG systems, and modern TypeScript ecosystems.
 </p>
 
+---
 
+## 🚀 Current Focus
+
+- Building scalable React Native architectures
+- Exploring AI agents, RAG pipelines, and LLM tooling
+- Developing full-stack applications with Next.js and PostgreSQL
+- Improving performance, CI/CD workflows, and developer experience
+
+---
+
+## 🔥 Featured Projects
+
+### 🤖 AI Chatbot — PDF & YouTube RAG
+
+AI-powered chatbot supporting PDF uploads and YouTube transcript conversations through a shared RAG pipeline.
+
+**Tech Stack:**  
+Next.js 16 • React 19 • LangChain • PostgreSQL • pgvector • Docker • Vercel AI SDK
+
+#### Features
+- PDF + YouTube transcript ingestion
+- Vector search with pgvector HNSW indexes
+- Streaming AI responses
+- Typed AI tool calls
+- Multi-stage Docker deployment
+
+🔗 Live Demo:  
+https://ai-pdf-chatbot-532l.onrender.com/
+
+🔗 GitHub:  
+https://github.com/TamarawGuy/ai-pdf-chatbot
+
+---
+
+### 🍳 AI Recipe Generator
+
+Full-stack AI meal planning platform with pantry tracking, shopping lists, and AI-powered recipe generation.
+
+**Tech Stack:**  
+React • TypeScript • Express • PostgreSQL • Gemini API • Docker • JWT
+
+#### Features
+- AI-generated recipes
+- Pantry-aware suggestions
+- Function-calling AI agent
+- Meal planner + shopping list
+- Secure JWT authentication
+
+🔗 Live Demo:  
+https://ai-recipe-generator-frontend-latest.onrender.com/
+
+🔗 GitHub:  
+https://github.com/TamarawGuy/ai-recipe-generator
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/-React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+### Backend & AI
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-black?style=flat-square)
+![Vercel AI SDK](https://img.shields.io/badge/-Vercel_AI_SDK-black?style=flat-square)
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/viktor-rumenov/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+</a>
+</p>
