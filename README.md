@@ -5,7 +5,7 @@ Software Engineer building scalable React Native apps and AI-powered full-stack 
 </h3>
 
 <p align="left">
-Currently focused on React Native architecture, AI applications, RAG systems, and modern TypeScript ecosystems.
+Currently focused on React Native architecture, AI applications, and RAG systems.
 </p>
 
 ---
